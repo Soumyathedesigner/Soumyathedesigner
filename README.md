@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumya Singh</h1>
 <h3 align="center">A passionate UX/UI designer from India</h3>
 
+https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyathedesigner&label=Profile%20views&color=0e75b6&style=flat" alt="soumyathedesigner" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://soumyasingh0024.wixsite.com/my-site-2](https://soumyasingh0024.wixsite.com/my-site-2)
