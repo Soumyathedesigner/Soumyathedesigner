@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumya Singh</h1>
 <h3 align="center">A passionate UX/UI designer from India</h3>
 
-<img align="right" height="300" width="500" src="[https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966)" />
+<img align="right" height="300" width="500" src="https://i.giphy.com/RThN0hOS2GO4M.gif
+" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyathedesigner&label=Profile%20views&color=0e75b6&style=flat" alt="soumyathedesigner" /> </p>
 
