@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumya Singh</h1>
 <h3 align="center">A passionate UX/UI designer from India</h3>
 
-<img align="right" height="300" width="500" src="https://i.giphy.com/RThN0hOS2GO4M.gif
-" />
+<img align="right" height="300" width="500" src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyathedesigner&label=Profile%20views&color=0e75b6&style=flat" alt="soumyathedesigner" /> </p>
 
